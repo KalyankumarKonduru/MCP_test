@@ -104,7 +104,7 @@ Add your application logic inside this file.
 To run the project, make sure your environment is activated and `.env` is configured:
 
 ```bash
-python pr_reviewer
+python pr_reviewer.py
 ```
 
 ---
