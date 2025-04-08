@@ -3,6 +3,9 @@ requests>=2.31.0          # For GitHub API calls
 python-dotenv>=1.0.0      # For environment variables
 mcp[cli]>=1.4.0          # For MCP server functionality
 notion-client>=2.3.0      # For Notion integration
+Flask>=2.0.0
+pyautogui>=0.9.53
+pygetwindow>=0.0.5
 
 # Optional: Pin versions for stability
 # requests==2.31.0
